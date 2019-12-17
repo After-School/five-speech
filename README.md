@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## Five Minute Speech
+5분동안 자유로운 주제로 지식을 공유하기 위한 사이트 입니다.
 
-You can use the [editor on GitHub](https://github.com/After-School/five-speech/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### How to
+매주 진행한 내용을 각자의 디렉토리에 정리해서 업로드 해 주세요.
+Markdown을 직접 사용하셔도 되고, 텍스트, 파워포인트, 워드 등 자유롭게 올려주시면 됩니다.
+빠른 확인을 위해 README.md에 링크만 추가해주세요.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### This Week
+| Nickname      | Link                     |
+| ------------- |:------------------------:|
+| alphahacker   | [내용 보기][alphahacker] |
+| charlie       | [내용 보기][charlie]     |
+| jimin         | [내용 보기][jimin]       |
+| kangis89      | [내용 보기][kangis89]    |
+| reys          | [내용 보기][reys]        |
+| soeun         | [내용 보기][soeun]       |
+| TaekminKwon   | [내용 보기][TaekminKwon] |
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/After-School/five-speech/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[alphahacker]: ./alphahacker
+[charlie]: ./charlie
+[jimin]: ./jimin
+[kangis89]: ./kangis89
+[reys]: ./reys
+[soeun]: ./soeun
+[TaekminKwon]: ./TaekminKwon
